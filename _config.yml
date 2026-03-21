@@ -15,7 +15,7 @@ name                     : &name "Zhang Yan(Zhang is my family name, Chinese tra
 description              : &description "Yan's academic portfolio"
 url                      : "https://zayn22zhang.github.io"
 baseurl                  : ""
-repository               : "zayn22zhang/zaynzhang.github.io"
+repository               : "zaynzhang.github.io"
 
 # Site Author
 author:
