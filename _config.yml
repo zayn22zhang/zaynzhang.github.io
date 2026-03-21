@@ -7,7 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-US
+title                    : "zayn"
 site_theme               : "default"
 remote_theme: academicpages/academicpages.github.io 
 name                     : &name "Zhang Yan(Zhang is my family name, Chinese tradition)"
@@ -19,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author
 author:
   avatar           : "profile.png"
-  name             : "Zhang Yan"
+  name             : "Zhang Yan(Zhang is my family name)"
   bio              : "2003-08-05 | INTJ"
   location         : "Munich"
   email            : "zhangyanyy19@gmail.com"
