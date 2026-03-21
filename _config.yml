@@ -12,9 +12,9 @@ site_theme               : "default"
 remote_theme: academicpages/academicpages.github.io 
 name                     : &name "Zhang Yan(Zhang is my family name, Chinese tradition)"
 description              : &description "Yan's academic portfolio"
-url                      : "https://zayn22zhang.github.io"
+url                      : "https://zayn22zhang.github.io/zaynzhang.github.io/"
 baseurl                  : ""
-repository               : "zayn22zhang/zaynzhang.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author
 author:
