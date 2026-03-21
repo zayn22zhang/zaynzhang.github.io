@@ -18,8 +18,11 @@ main:
   #   url: /cv-json/
 
   - title: "Publications"
-  #   url: /publications/
+    url: /publications/
 
   - title: "Notes"
     url: /notes/
+
+  -title: "Some Useful Codes"
+    url: /codes/
   
