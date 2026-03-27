@@ -1,1 +1,1 @@
-- [String Notes](zaynzhang.github.io/files/弦论入门_zayn.pdf)
+- [String Notes](files/弦论入门_zayn.pdf)
