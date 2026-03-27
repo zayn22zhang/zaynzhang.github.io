@@ -1,1 +1,1 @@
-- [String Notes](files/string-zayn.pdf)
+- [String Notes](/files/string-zayn.pdf)
