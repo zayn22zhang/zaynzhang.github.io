@@ -4,6 +4,17 @@ title: "Lecture Notes"
 permalink: /notes/
 author_profile: true
 ---
+### Mathematical Methods for Quantum Information
+
+#### Part 1
+- [Mathematical Foundation](files/MM4QI_MT.pdf)
+
+#### Part 2
+- [Functional Analysis& Operator Theory](files/MM4QI_FAOT.pdf)
+
+#### Part 3 (Advanced Topics)
+- [Graphs& Networks](files/Graphs_and_Networks.pdf)
+- [Probabilistic Theories](files/Probabilistic_Theories.pdf)
 
 ### Quantum Foundation
 
@@ -16,16 +27,6 @@ author_profile: true
 #### Part 3 QUANTUM INFORMATION WITHOUT HILBERT SPACES
 
 ### Quantum Thermodynamics
-
-### Mathematical Methods for Quantum Information
-
-#### Part 1
-- [Mathematical Foundation](files/MM4QI-MTnote.pdf)
-
-#### Part 2
-- [Functional Analysis& Operator Theory](files/MM4QI-FAOTnote.pdf)
-
-#### Part 3 (Advanced Concepts)
 
 
 ### Theortical Physics
