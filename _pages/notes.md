@@ -65,5 +65,6 @@ author_profile: true
 ## Quantum Field Theory
 
 ## General Relativity
+files/GR_note.pdf
 
 ## Quantum Manybody Theory
