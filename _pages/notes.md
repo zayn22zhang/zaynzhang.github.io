@@ -22,33 +22,13 @@ author_profile: true
 
 ### Part 1（Mathematical Foundation)
 
-#### Chapter 0 (Review of Analysis)
-
-#### Chapter 1 (Review of Linear Algebra)
-
-#### Chapter 2 (Review of Group Theory)
-
-#### Chapter 3 (Review of Real Analysis)
-
-#### Chapter 4 (Review of Functional Analysis)
-
 ### Part 2 (Operator Theory)
-
-#### Chapter 5 (Hilbert Space)
-
-#### Chapter 6 (Self-adjointness and Spectrum)
-
-#### Chapter 7 (The Spectral Theorem)
-
-#### Chapter 8 (Application of the Spectral Theorem)
 
 ### Part 3 (Advanced Concepts)
 
 #### Chapter 9 (Graphs and Networks)
 
 #### Chapter 10 (Generalized Probability Theory)
-
-#### Chapter 
 
 ## Theortical Physics
 
@@ -63,8 +43,10 @@ author_profile: true
 # Some Recommand Notes
 
 ## Quantum Field Theory
+- [QFT Notes](files/QFT_note.pdf)
 
 ## General Relativity
-files/GR_note.pdf
+- [GR Notes](files/GR_note.pdf)
 
 ## Quantum Manybody Theory
+- [QMT Notes](files/QMT_note.pdf)
