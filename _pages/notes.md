@@ -7,14 +7,14 @@ author_profile: true
 ### Mathematical Methods for Quantum Information
 
 #### Part 1
-- [Mathematical Foundation](files/MM4QI_MT.pdf)
+- [Mathematical Foundation](files/MM4QI-MT.pdf)
 
 #### Part 2
-- [Functional Analysis& Operator Theory](files/MM4QI_FAOT.pdf)
+- [Functional Analysis& Operator Theory](files/MM4QI-FAOT.pdf)
 
 #### Part 3 (Advanced Topics)
-- [Graphs& Networks](files/Graphs_and_Networks.pdf)
-- [Probabilistic Theories](files/Probabilistic_Theories.pdf)
+- [Graphs& Networks](files/Graphs-and-Networks.pdf)
+- [Probabilistic Theories](files/Probabilistic-Theories.pdf)
 
 ### Quantum Foundation
 
@@ -29,7 +29,7 @@ author_profile: true
 ### Quantum Thermodynamics
 
 
-### Theortical Physics
+### Theoretical Physics
 
 #### Classical 
 
@@ -42,10 +42,10 @@ author_profile: true
 ## Some Recommand Notes
 
 ## Quantum Field Theory
-- [QFT Notes](files/QFT_note.pdf)
+- [QFT Notes](files/QFT-note.pdf)
 
 ## General Relativity
-- [GR Notes](files/GR_note.pdf)
+- [GR Notes](files/GR-note.pdf)
 
 ## Quantum Manybody Theory
-- [QMT Notes](files/QMT_note.pdf)
+- [QMT Notes](files/QMT-note.pdf)
