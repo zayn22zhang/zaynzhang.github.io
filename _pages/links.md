@@ -2,6 +2,7 @@
 layout: single
 title: "Some Useful Links"
 permalink: /links/
+author_profile: true
 ---
 
 # Top Research Groups
