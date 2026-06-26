@@ -42,10 +42,10 @@ author_profile: true
 ## Some Recommand Notes
 
 ## Quantum Field Theory
-- [QFT Notes](/files/Coleman - 2013 - Notes from sidney coleman's physics 253a.pdf)
+- [QFT Note](/files/Coleman - 2013 - Notes from sidney coleman's physics 253a.pdf)
 
 ## General Relativity
-- [GR Notes](/files/GR-note.pdf)
+- [GR Note](/files/GR-note.pdf)
 
 ## Quantum Manybody Theory
-- [QMT Notes](/files/nayak_notes.pdf)
+- [QMT Note](/files/nayak_notes.pdf)
