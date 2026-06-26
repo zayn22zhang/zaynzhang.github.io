@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master student from School of [TUM](https://www.tum.de/en/) and [LMU](https://www.lmu.de/de/index.html). My research interest is mainly on quantum information theory, quantum foundation and tensor network.
+I am a Quantum Science and Technology master’s student at the School of Natural Science, Technical University of Munich (TUM), and Ludwig Maximilian University of Munich (LMU). My research interests include quantum information theory, quantum foundations, and tensor networks.
 
-In quantum foundation, the quantum thermodynamics is a potential area. Quantum Resource Theory is a great framework to deal with it.
+In quantum foundations, I am interested in quantum thermodynamics and the role of Quantum Resource Theory as a unified framework for characterizing and quantifying physical resources. More generally, I am fascinated by the mathematical aspects of quantum theory and the interplay between information, symmetry, and physical laws.
 
-In quantum information, which appeals me most is about quantum networks. The multiparticles entanglement is mystery and fascinating. There are many potiential way to think about these problems, such as graphs and networks.
+In quantum information theory, I am particularly interested in multipartite entanglement and quantum networks. I am interested in understanding the structure of quantum correlations, local unitary equivalence, and resource-theoretic approaches to many-body quantum systems. I am also interested in applying tools such as graph theory, network theory, and tensor networks to study complex quantum systems.
 
-About the quantum complexity, it has strong connection with the Computer Science.
+Another area that attracts me is quantum complexity theory, especially its deep connections with theoretical computer science, optimization, and the computational complexity of quantum many-body problems.
