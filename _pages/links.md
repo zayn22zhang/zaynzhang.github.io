@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Some Useful Links"
+permalink: /links/
+---
+
 # Top Research Groups
 
 ## Europe
