@@ -1,46 +1,44 @@
 ---
 layout: single
-title: "Notes"
+title: "Lecture Notes"
 permalink: /notes/
 author_profile: true
 ---
-# Original Notes
 
-## Quantum Foundation
+### Quantum Foundation
 
-## Quantum Information
+### Quantum Information
 
-### Part 1 QUANTUM THEORY FROM HILBERT SPACE
+#### Part 1 QUANTUM THEORY FROM HILBERT SPACE
 
-### Part 2 THE INFORMATIONAL APPROACH
+#### Part 2 THE INFORMATIONAL APPROACH
 
-### Part 3 QUANTUM INFORMATION WITHOUT HILBERT SPACES
+#### Part 3 QUANTUM INFORMATION WITHOUT HILBERT SPACES
 
-## Quantum Thermodynamics
+### Quantum Thermodynamics
 
-## Mathematical Methods for Quantum Information
+### Mathematical Methods for Quantum Information
 
-### Part 1（Mathematical Foundation)
+#### Part 1
+- [Mathematical Foundation](files/MM4QI-MTnote.pdf)
 
-### Part 2 (Operator Theory)
+#### Part 2
+- [Functional Analysis& Operator Theory](files/MM4QI-FAOTnote.pdf)
 
-### Part 3 (Advanced Concepts)
+#### Part 3 (Advanced Concepts)
 
-#### Chapter 9 (Graphs and Networks)
 
-#### Chapter 10 (Generalized Probability Theory)
+### Theortical Physics
 
-## Theortical Physics
+#### Classical 
 
-### Classical 
+#### Electrodynamics
 
-### Electrodynamics
+#### Quantum
 
-### Quantum
+#### Thermodynamics
 
-### Thermodynamics
-
-# Some Recommand Notes
+## Some Recommand Notes
 
 ## Quantum Field Theory
 - [QFT Notes](files/QFT_note.pdf)
