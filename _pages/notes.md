@@ -38,14 +38,3 @@ author_profile: true
 #### Quantum
 
 #### Thermodynamics
-
-## Some Recommand Notes
-
-## Quantum Field Theory
-- [QFT Note](/files/QFTT.pdf)
-
-## General Relativity
-- [GR Note](/files/GR-note.pdf)
-
-## Quantum Manybody Theory
-- [QMT Note](/files/nayak_notes.pdf)
