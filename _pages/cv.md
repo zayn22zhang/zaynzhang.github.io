@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Quantum Science and Technology, TUM&LMU, 2025.10-now
-* Visiting in Prof.Guehne's group, Siegen University, 2026.9-now
-* B.S. in Physics, Hainan University, 2021.9-2025.6
+* MSc. in Quantum Science and Technology, TUM&LMU, 2025.10-now
+* Research in Prof.Guehne's group, Siegen University, 2026.9-now
+* BSc. in Physics, Hainan University, 2021.9-2025.6
 
 Work experience
 ======
