@@ -20,7 +20,7 @@ author_profile: true
 
 ### Quantum Information
 - [Quantum Information](/files/QI-book.pdf)
-- 
+
 ### Quantum Thermodynamics
 
 ### Quantum Complexity
