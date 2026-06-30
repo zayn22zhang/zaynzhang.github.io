@@ -19,12 +19,7 @@ author_profile: true
 ### Quantum Foundation
 
 ### Quantum Information
-
-#### Part 1 QUANTUM THEORY FROM HILBERT SPACE
-
-#### Part 2 THE INFORMATIONAL APPROACH
-
-#### Part 3 QUANTUM INFORMATION WITHOUT HILBERT SPACES
+- [Quantum Information Theory](/files/QI-book.pdf)
 
 ### Quantum Thermodynamics
 
