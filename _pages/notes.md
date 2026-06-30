@@ -19,17 +19,9 @@ author_profile: true
 ### Quantum Foundation
 
 ### Quantum Information
-- [Quantum Information Theory](/files/QI-book.pdf)
-
+- [Quantum Information](/files/QI-book.pdf)
+- 
 ### Quantum Thermodynamics
 
-
-### Theoretical Physics
-
-#### Classical 
-
-#### Electrodynamics
-
-#### Quantum
-
-#### Thermodynamics
+### Quantum Complexity
+- [Quantum Complexity](/files/QCT.pdf)
