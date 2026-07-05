@@ -10,7 +10,7 @@ author_profile: true
 - [Group Theory](/files/gruppen_en.pdf)
 
 #### Part 2 (Analysis)
-- [Functional Analysis& Operator Theory](/files/MM4QI-FAOT.pdf)
+- [Functional Analysis& Operator Theory](/files/MQM.pdf)
 
 #### Part 3 (Advanced Topics)
 - [Graphs& Networks](/files/Graphs-and-Networks.pdf)
