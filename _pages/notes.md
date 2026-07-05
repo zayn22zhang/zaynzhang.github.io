@@ -6,10 +6,10 @@ author_profile: true
 ---
 ### Mathematical Methods for Quantum Information
 
-#### Part 1
-- [Mathematical Foundation](/files/MM4QI-MF.pdf)
+#### Part 1 (Algebra)
+- [Group Theory](/files/gruppen_en.pdf)
 
-#### Part 2
+#### Part 2 (Analysis)
 - [Functional Analysis& Operator Theory](/files/MM4QI-FAOT.pdf)
 
 #### Part 3 (Advanced Topics)
