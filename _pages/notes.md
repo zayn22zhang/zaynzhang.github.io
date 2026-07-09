@@ -13,6 +13,7 @@ author_profile: true
 - [Functional Analysis& Operator Theory](/files/MQM.pdf)
 
 #### Part 3 (Advanced Topics)
+- [Matrix Analysis](/files/matrixPD.pdf)
 - [Tensor Networks](/files/TNQC.pdf)
 - [Graphs& Networks](/files/Graphs-and-Networks.pdf)
 - [Probabilistic Theories](/files/Probabilistic-Theories.pdf)
