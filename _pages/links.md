@@ -7,23 +7,25 @@ author_profile: true
 
 # Top Research Groups
 
+You can find more in [Quantiki](https://www.quantiki.org).
+
 ## Europe
 
 ### [IQOQI](https://www.iqoqi-vienna.at/)
 ### [Atominstitut Theory Division](https://quoi-theory.at/)
 ### [Theoretical Quantum Optics(Siegen)](https://www.uni-siegen.de/en/physics/tqo)
-### [ICFO (The Institute of Photonic Sciences)](https://www.icfo.eu/)
+### [ICFO (Barcelona)](https://www.icfo.eu/)
 ### [Quantum Information and Communication(Geneva)](https://www.unige.ch/gap/qic/)
-### [Qmath](https://qmath.ku.dk/)
-### [QICS.Sorbonne](https://qics.sorbonne-universite.fr/en)
-### [QuSoft](https://qusoft.org/)
-### [ICTQT](https://ictqt.ug.edu.pl/)
+### [Qmath(Copenhagen)](https://qmath.ku.dk/)
+### [QICS(Paris)](https://qics.sorbonne-universite.fr/en)
+### [QuSoft(Netherland)](https://qusoft.org/)
+### [ICTQT(Poland)](https://ictqt.ug.edu.pl/)
 
 ## North America
 
 ### [PI(Canada)](https://perimeterinstitute.ca/research/research-areas/quantum-information)
-### [IQC (Institute for Quantum Computing - Waterloo)](https://uwaterloo.ca/institute-for-quantum-computing/)
-### [Caltech Quantum Information and Matter (IQIM)](https://iqim.caltech.edu/)
+### [IQC (Waterloo)](https://uwaterloo.ca/institute-for-quantum-computing/)
+### [Caltech Quantum Information and Matter](https://iqim.caltech.edu/)
 ### [Harvard Quantum Initiative](https://quantum.harvard.edu/)
 ### [MIT Center for Theoretical Physics](https://ctp.lns.mit.edu/)
 
