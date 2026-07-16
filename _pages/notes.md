@@ -6,25 +6,23 @@ author_profile: true
 ---
 ### Mathematical Methods for Quantum Information
 
-#### Part 1 (Algebra)
+#### Algebra
 - [Group Theory](/files/gruppen_en.pdf)
 
-#### Part 2 (Analysis)
+#### Analysis
 - [Functional Analysis& Operator Theory](/files/MQM.pdf)
 
-#### Part 3 (Advanced Topics)
+#### Advanced Topics
 - [Matrix Analysis](/files/matrixPD.pdf)
 - [Tensor Networks](/files/TNQC.pdf)
-- [Probabilistic Theories](/files/Probabilistic-Theories.pdf)
+- [Probabilistic Theories](/files/Probabilistic_theories.pdf)
 
 ### Information Theory
   
-### Quantum Foundation
+### Physics
 
-### Quantum Information
 - [Quantum Information](/files/QI-book.pdf)
 
-### Quantum Thermodynamics
-
-### Quantum Complexity
 - [Quantum Complexity](/files/QCT.pdf)
+
+- [General Relativity](/files/GR-note.pdf)
