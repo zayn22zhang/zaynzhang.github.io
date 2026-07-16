@@ -15,10 +15,9 @@ author_profile: true
 #### Part 3 (Advanced Topics)
 - [Matrix Analysis](/files/matrixPD.pdf)
 - [Tensor Networks](/files/TNQC.pdf)
-- [Graphs& Networks](/files/Graphs-and-Networks.pdf)
 - [Probabilistic Theories](/files/Probabilistic-Theories.pdf)
 
-
+### Information Theory
   
 ### Quantum Foundation
 
