@@ -23,6 +23,8 @@ author_profile: true
 
 - [Quantum Information](/files/QI-book.pdf)
 
+- [Quantum Key Distribution](/files/QKD.pdf)
+
 - [Quantum Complexity](/files/QCT.pdf)
 
 - [General Relativity](/files/GR-note.pdf)
