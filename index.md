@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Welcome to My Website!"
+title: "zayn"
 layout: single
 author_profile: true
 ---
+Aside from math and physics, I have a wide range of personal interests that keep me energized:
 
-I am a Quantum Science and Technology master’s student at the School of Natural Sciences, Technical University of Munich (TUM), and Ludwig Maximilian University of Munich (LMU). My research interests include quantum information theory, quantum foundations, and tensor networks.
-
-In quantum foundations, I am interested in quantum thermodynamics and the role of Quantum Resource Theory as a unified framework for characterizing and quantifying physical scenario. Also quantum gravity is another appealing area.
-
-In quantum information theory, I am particularly interested in multipartite entanglement and its application to quantum networks. I am also interested in some mathematical tools such as graph theory, network theory, and tensor networks to explore quantum systems.
-
-Another area that attracts me is quantum complexity theory and tensor networks, especially its deep connections with theoretical computer science, optimization, and the computational complexity of quantum problems.
+* **Reading**: In my free time, I love reading books on Economics and Literature. 
+* **Sports**: Sports are a huge part of my life. Football is my absolute favorite，my favorite team is Arsenal. I also enjoy swimming and fitness training.
+* **Music**: Music is a daily essential for me. R&B is my top favorite, and I also listen to a lot of Rap, Pop, and some Rock.
