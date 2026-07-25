@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "zayn"
 site_theme               : "default"
 remote_theme: academicpages/academicpages.github.io 
-name                     : &name "Zhang Yan(Zhang is my family name, Chinese tradition)"
+name                     : &name "Yan Zhang(张炎)"
 description              : &description "Yan's academic portfolio"
 url                      : "https://zayn22zhang.github.io"
 baseurl                  : ""
@@ -20,21 +20,13 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author
 author:
   avatar           : "profile.png"
-  name             : "Zhang Yan(Zhang is my family name)"
-  bio              : "2003-08-05 | INTJ"
+  name             : "Yan Zhang"
+  bio              : "Aug/2003"
   location         : "Munich"
-  email            : "zhangyanyy19@gmail.com"
-
-  arxiv            : "https://arxiv.org/user/"
-  googlescholar    : "https://scholar.google.com/citations?view_op=new_profile&hl=zh-CN"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-7300-2890"
-  researchgate     : "https://www.researchgate.net/profile/Yan-Zhang-660"
-
-  github           : "zayn22zhang"
-
-  instagram        :
-  weibo            :
-  zhihu            :
+  email            : "yanzhang.zayn@gmail.com"
+  
+  googlescholar    : ""
+  instagram        : "https://www.instagram.com/iamzyan22/"
 
 # Publication Category
 publication_category:
