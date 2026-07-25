@@ -4,6 +4,9 @@ title: "Lecture Notes"
 permalink: /notes/
 author_profile: true
 ---
+
+Here are some great notes for study
+
 ### Mathematical Methods for Quantum Information
 
 #### Algebra
